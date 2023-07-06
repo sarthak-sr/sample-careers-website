@@ -1,2 +1,2 @@
 # jovian-careers-website
-A test repository to learn Web development. 
+A test repository to learn Web development using replit. 
